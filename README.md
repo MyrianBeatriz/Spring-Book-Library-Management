@@ -1,1 +1,1 @@
-Simple teaching app based on Spring Boot 3.*
+Spring Boot application that manages a collection of Book instances in a personal library
